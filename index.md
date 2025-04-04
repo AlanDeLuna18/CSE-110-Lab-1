@@ -9,6 +9,7 @@ I hope to graduate by 2026 and work full-time as a software engineer at a large 
 ### Favorite Quote
 My favorite quote of all time has to be: 
 > "Keep your hopes up high and your head down low" - A Day To Remember
+
 A Day To Remember is one of my favorite rock bands from the 2000s and I also make sure to keep this quote with me.
 
 ### Favorite Programming Language 
