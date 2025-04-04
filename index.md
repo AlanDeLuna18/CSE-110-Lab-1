@@ -4,6 +4,11 @@ Hello! My name is Alan De Luna, and I am a third-year student here at UCSD major
 ### Academic Goals
 I hope to graduate by 2026 and work full-time as a software engineer at a large technology company. I also hope to work as an artist on the side to achieve my goal of becoming an artist as well. I understand that this will be hard, but with enough perseverance, I can do it! Here is a check of where I'm at right now: 
 
+- [x] Transfer to UCSD
+- [ ] Graduate
+- [ ] Work as a software developer
+- [ ] Work as an artist on the side
+
 
 
 ### Favorite Quote
